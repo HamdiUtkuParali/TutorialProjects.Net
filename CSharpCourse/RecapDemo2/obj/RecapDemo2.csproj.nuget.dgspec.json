@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paral\\source\\repos\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj": {}
+    "C:\\Users\\paral\\source\\repos\\TutorialProjects.Net\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paral\\source\\repos\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj": {
+    "C:\\Users\\paral\\source\\repos\\TutorialProjects.Net\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paral\\source\\repos\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj",
+        "projectUniqueName": "C:\\Users\\paral\\source\\repos\\TutorialProjects.Net\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj",
         "projectName": "RecapDemo2",
-        "projectPath": "C:\\Users\\paral\\source\\repos\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj",
+        "projectPath": "C:\\Users\\paral\\source\\repos\\TutorialProjects.Net\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj",
         "packagesPath": "C:\\Users\\paral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paral\\source\\repos\\CSharpCourse\\RecapDemo2\\obj\\",
+        "outputPath": "C:\\Users\\paral\\source\\repos\\TutorialProjects.Net\\CSharpCourse\\RecapDemo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,14 @@
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\bin\Debug\net6.0\TryParseMethod.exe
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\bin\Debug\net6.0\TryParseMethod.deps.json
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\bin\Debug\net6.0\TryParseMethod.runtimeconfig.json
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\bin\Debug\net6.0\TryParseMethod.dll
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\bin\Debug\net6.0\TryParseMethod.pdb
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\TryParseMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\TryParseMethod.AssemblyInfoInputs.cache
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\TryParseMethod.AssemblyInfo.cs
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\TryParseMethod.csproj.CoreCompileInputs.cache
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\TryParseMethod.dll
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\refint\TryParseMethod.dll
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\TryParseMethod.pdb
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\TryParseMethod.genruntimeconfig.cache
+C:\Users\paral\source\repos\TutorialProjects.Net\CSharpCourse\TryParseMethod\obj\Debug\net6.0\ref\TryParseMethod.dll

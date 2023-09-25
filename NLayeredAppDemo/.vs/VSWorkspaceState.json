@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Northwind.DataAccess",
+    "\\Northwind.DataAccess\\Abstract",
+    "\\Northwind.Entities\\Abstract"
+  ],
+  "SelectedNode": "\\Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+  "PreviewInSolutionExplorer": false
+}
