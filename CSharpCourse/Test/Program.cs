@@ -2,21 +2,15 @@
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            Utku utku = new Utku("Hamdi",24);
-            Console.WriteLine(utku.GetType());
+            Console.WriteLine("Asd");
+            Thread.Sleep(10000);
+            Console.Clear();
+            Console.WriteLine("Utku");
         }
     }
 
-    public class Utku
-    {
-        public string Ad { get; set; }
-        public int Yas { get; set; }
-        public Utku(string ad, int yas) 
-        {
-            Ad = ad;
-            Yas = yas;
-        }
-    }
+    
 }
